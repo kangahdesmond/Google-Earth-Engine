@@ -1,0 +1,20 @@
+1.Land surface temperature
+https://code.earthengine.google.com/b47af8ab3de3da9e222107c9c07b9cd4
+
+2. Land use land cover future prediction
+https://code.earthengine.google.com/4a401aaa873991a3476c2c9c27d9f80c
+
+3. Graphing 
+https://code.earthengine.google.com/854844b8404eac8cdd99bc4727fa5604
+
+4. Carbon Storage
+https://code.earthengine.google.com/337150680363dfbbf01d966fd6c745f3
+
+5. Supervised classification
+https://code.earthengine.google.com/fa6a773b07e1c11f271931702356efc4
+
+6. Indices calculation
+https://code.earthengine.google.com/7e18390d0365ba13855bb7339c1a4f87
+
+7. Crops types classification
+https://code.earthengine.google.com/5a964788d1859d046e48c6d197ea9037
